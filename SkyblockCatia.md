@@ -9,7 +9,7 @@
 - **Jungle Axe Cooldown** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 - **Grappling Hook Cooldown** - [Biscuit's SkyblockAddons](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
 - **Zealot Respawn Cooldown** - None
-- **Placed Summoning Eye Tracker** - None
+- **Placed Summoning Eye Tracker** - [Sychich & Lily's Skytils](https://github.com/Skytils/SkytilsMod/releases)
 - **Leave Party when Last Eye Placed** - None
 - **Lobby Player Viewer** - [Moulberry's NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates)
 - **Auction Bid Confirm Value** - None
